@@ -27,3 +27,7 @@ For running you have to use python2 and Theano as BACKEND to run the code
 Use command
 
 KERAS_BACKEND=theano python2 textClassifierHATT.py
+
+
+If you use our code or idea, please cite us
+
