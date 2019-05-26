@@ -11,6 +11,7 @@ textClassifierHATT.py has code for both Self and Context Attention
 
 
 Self Attention ----> Class Name Attention
+
 Context Attention ---> Class Name AttLayer
 
 
