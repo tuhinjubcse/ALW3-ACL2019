@@ -8,8 +8,12 @@ You can alter based on your file and how you have the tweet and label correspond
 
 
 textClassifierHATT.py has code for both Self and Context Attention
+
+
 Self Attention ----> Class Name Attention
 Context Attention ---> Class Name AttLayer
+
+
 
 You can edit when adding in the model
 
