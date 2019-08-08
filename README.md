@@ -31,3 +31,11 @@ KERAS_BACKEND=theano python2 textClassifierHATT.py
 
 If you use our code or idea, please cite us
 
+@article{chakrabarty2019pay,
+  title={Pay “Attention” to Your Context when Classifying Abusive Language},
+  author={Chakrabarty, Tuhin and Gupta, Kilol and Muresan, Smaranda},
+  journal={Platinum Sponsor},
+  pages={70},
+  year={2019}
+}
+
